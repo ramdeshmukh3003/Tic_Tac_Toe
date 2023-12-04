@@ -1,9 +1,8 @@
 
-# Port_Folio
+# Tic_Tac_Toe
 
-It is Parallax Effect Website.It has been made using HTML and CSS.In this Website,when you scroll down ,
-you will see one image override on another image and after text image will be changed . this concept is likely based on concept of Relative Motion.
-
+It is Tic Tac Toe Game or in other words we call it as (O , X game).both Turns are played by client or user.
+It is my First JavaScript Project.After one round is over , we can reset the game using reset button . 
 ## Authors
 
 - [@ramdeshmukh3003](https://www.github.com/ramdeshmukh3003)
@@ -28,7 +27,7 @@ To deploy this project run
 
 ## Tech Stack
 
-**Client:** HTML , CSS.
+**Client:** HTML , CSS , JS . 
 
 
 
@@ -38,7 +37,7 @@ To deploy this project run
 Clone the project
 
 ```bash
-  git clone https://github.com/ramdeshmukh3003/Parallax_Effect.git
+  git clone https://github.com/ramdeshmukh3003/Tic_Tac_Toe.git
 ```
 
 Go to the project directory
